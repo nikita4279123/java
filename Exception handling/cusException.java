@@ -12,7 +12,11 @@ public class cusException {
 }
 public static void main(String[] args) {
     cusException ce =new cusException();
-    
+    int x=int(int)(Math.random()*1000000);
+    System.err.println(x);
+    try{
+        ce
+    }
 }
 
 
