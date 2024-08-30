@@ -1,4 +1,4 @@
-class exceptionDemo{
+ class exceptionDemo{
     public static void main(String[] args) {
         int a=10;
         int b=8;
@@ -6,7 +6,7 @@ class exceptionDemo{
         int x,y;
         try
         {
-            x=a/(b-c);
+           x=a/(b-c);
         }
         catch(ArithmeticException e)
         {
